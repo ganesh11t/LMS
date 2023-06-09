@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UI LMS", "UI LMS.vbproj", "{74A3A4BA-AF3D-4EAB-8722-D1E685FA7980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A3A4BA-AF3D-4EAB-8722-D1E685FA7980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A3A4BA-AF3D-4EAB-8722-D1E685FA7980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A3A4BA-AF3D-4EAB-8722-D1E685FA7980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A3A4BA-AF3D-4EAB-8722-D1E685FA7980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9020D0-D4C9-4216-9110-1C7CB774F447}
+	EndGlobalSection
+EndGlobal
